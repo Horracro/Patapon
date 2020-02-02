@@ -1,0 +1,61 @@
+#container{
+font-style: comic-sans;
+text-align: center;
+height: 60%;
+
+
+}
+h1{
+	text-align: center;
+
+}
+#tablai{
+	float:left;
+	padding: 20px;
+	border-style: solid;
+	height: 200px;
+
+}
+
+#texto{
+	border-style: solid;
+	height: 240px;
+}
+
+.vertical-menu {
+  width: 200px;
+  height: 200px;   /* Set a width if you like */
+}
+.vertical-menu b{
+
+
+background-color:blue ;
+  color: black; /* Black text color */
+  display: block; /* Make the links appear below each other */
+   /* Add some padding */
+  text-decoration: none; /* Remove underline from links */
+  border-style: solid;
+
+}
+.vertical-menu a {
+  background-color:white ; /* Grey background color */
+  color: black; /* Black text color */
+  display: block; /* Make the links appear below each other */
+  padding: 20px; /* Add some padding */
+  text-decoration: none; /* Remove underline from links */
+  border-style: solid;
+}
+
+.vertical-menu a:hover {
+  background-color: red; /* Dark grey background on mouse-over */
+}
+
+footer{
+  text-align: center;
+  font-size: 200px;
+}
+
+
+img{
+  float: center;
+}
